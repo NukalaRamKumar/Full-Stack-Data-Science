@@ -1,7 +1,8 @@
 # iNeuron Full Stack Data Science <br>
 Hi Everyone, My name is Ram Kumar aka Ram.<br>
 I have started the Data Science odyssey with the assistance of iNeuron.<br>
-__I Thank iNeuron for the help....!__<br>
+<br>
+___I Thank iNeuron for the help....!___<br>
 <br>
 This repository is for my Assignments and Projects done along with iNeuron.
 
