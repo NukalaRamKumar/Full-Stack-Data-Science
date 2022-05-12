@@ -1,6 +1,11 @@
 # iNeuron Full Stack Data Science <br>
-I am Ram Kumar with iNeuron assistance, I started my data odyssey. This repository is for my Assignments and Projects done along with iNeuron.
+Hi Everyone, My name is Ram Kumar aka Ram.<br>
+I have started the Data Science odyssey with the assistance of iNeuron.<br>
+__I Thank iNeuron for the help....!__<br>
+<br>
+This repository is for my Assignments and Projects done along with iNeuron.
 
 1. Python
     - [Python Basics](/Python%20Basics/)
-    - [Data Analysis Bootcamp](Data%20Analysis%20Bootcamp/)
+2. Data Analysis Bootcamp
+    - [Advanced Excel](/Data%20Analysis%20Bootcamp/Advanced%20Excel/)
