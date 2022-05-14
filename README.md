@@ -1,5 +1,5 @@
 # iNeuron Full Stack Data Science <br>
-### Introduction
+### Introduction <br>
 ---
 Hi Everyone, I am Ram.<br>
 <br>
@@ -10,8 +10,8 @@ This repository contains all the learning and mini projects done by me while lea
 2. Data Analysis Bootcamp
     - [Advanced Excel](/Data%20Analysis%20Bootcamp/Advanced%20Excel/)
 <br>
-<br>
-### Mini Projects
+
+### Mini Projects<br>
 ---
 Below are the mini projects done while learning:
 <br>
