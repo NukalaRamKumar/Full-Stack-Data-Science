@@ -6,6 +6,6 @@ Analysis of the crime records dataset using different graphs and making inferenc
 
 **Tableau Workbook:** [Crime Analysis](Crime%20Analysis.twbx)
 
-**Tableau Online:** [Crime Analysis](https://public.tableau.com/app/profile/ram.kumar8493/viz/CrimeAnalysis_16525245061700/CrimeAnalysis?publish=yes)
+**Tableau Public Online:** [Crime Analysis](https://public.tableau.com/app/profile/ram.kumar8493/viz/CrimeAnalysis_16525245061700/CrimeAnalysis?publish=yes)
 
 **Report:** [Crime Analysis Report](Crime%20Analysis%20Report.pdf)
