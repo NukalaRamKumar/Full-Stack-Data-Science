@@ -7,4 +7,4 @@ __Tableau Workbook:__ [Restaurant Analysis in Bangalore](Restaurant%20Analysis%2
 
 __Tableau Online:__ [Restaurant Analysis in Bangalore](https://public.tableau.com/app/profile/ram.kumar8493/viz/RestaurantAnalysisinBangalore/RestaurantAnalysisinBangalore?publish=yes)
 
-__Report:__ [Restaurant Analysis in Bangalore Report](/Restaurant%20Analysis%20in%20Bangalore%20Report.pdf)
+__Report:__ [Restaurant Analysis in Bangalore Report](Restaurant%20Analysis%20in%20Bangalore%20Report.pdf)
